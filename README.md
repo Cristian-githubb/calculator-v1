@@ -1,7 +1,9 @@
 # Calculadora Web / Web Calculator
 
 Esta es una calculadora simple y elegante construida con HTML, CSS y JavaScript. La calculadora permite realizar operaciones matemáticas básicas como suma, resta, multiplicación y división, con un diseño responsivo que se adapta a cualquier dispositivo.
+-
 This is a simple and elegant calculator built with HTML, CSS, and JavaScript. The calculator allows you to perform basic mathematical operations such as addition, subtraction, multiplication, and division, with a responsive design that adapts to any device.
+-
 
 ## Características / Features
 
@@ -31,11 +33,11 @@ This is a simple and elegant calculator built with HTML, CSS, and JavaScript. Th
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone [https://github.com/tu-usuario/calculadora-web.git](https://github.com/Cristian-githubb/calculator-v1.git)
+   git clone https://github.com/Cristian-githubb/calculator-v1.git
 -
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/your-username/web-calculator.git](https://github.com/Cristian-githubb/calculator-v1.git)
+   git clone https://github.com/Cristian-githubb/calculator-v1.git
 
 ![Capture 001](https://github.com/user-attachments/assets/9dce9d54-a01d-4a95-a692-0b0ada22baeb)
 
