@@ -10,7 +10,7 @@ This is a simple and elegant calculator built with HTML, CSS, and JavaScript. Th
 - Formateo visual de operadores (por ejemplo, `÷` en lugar de `/`, `x` en lugar de `*`).
 - Botón para limpiar (`AC`) y para borrar un carácter (`DEL`).
 - Manejo de errores en caso de que se introduzca una expresión no válida.
-
+-
 - Basic operations: addition, subtraction, multiplication, division, percentages, and the use of parentheses.
 - Responsive interface that adapts to any screen size.
 - Visual formatting of operators (e.g., `÷` instead of `/`, `x` instead of `*`).
@@ -22,7 +22,6 @@ This is a simple and elegant calculator built with HTML, CSS, and JavaScript. Th
 - **HTML5**: Estructura básica de la aplicación.
 - **CSS3**: Estilos y diseño de la interfaz, incluyendo un diseño responsivo.
 - **JavaScript (ECMAScript 6+)**: Lógica para el funcionamiento de la calculadora, manejo de eventos, y manipulación del DOM.
-
 - 
 - **HTML5**: Basic structure of the application.
 - **CSS3**: Styles and design of the interface, including a responsive layout.
@@ -32,12 +31,11 @@ This is a simple and elegant calculator built with HTML, CSS, and JavaScript. Th
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/tu-usuario/calculadora-web.git
-
-
+   git clone [https://github.com/tu-usuario/calculadora-web.git](https://github.com/Cristian-githubb/calculator-v1.git)
+-
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/web-calculator.git
+   git clone [https://github.com/your-username/web-calculator.git](https://github.com/Cristian-githubb/calculator-v1.git)
 
 ![Capture 001](https://github.com/user-attachments/assets/9dce9d54-a01d-4a95-a692-0b0ada22baeb)
 
